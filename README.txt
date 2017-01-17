@@ -5,13 +5,13 @@
 
 Files:
 
+Jim Bremner - A Log Likelihood fit for extracting the D0 lifetime.pdf - the final report detailing the methods. Read for a more general overview of the aims and results.
+
 data.py - Contains classes for analysis of the lifetime.txt file
 
 lifetime.txt - The particle decay time data in 10,000 pairs of (measured decay time, uncertainty) in ps 
 
 useData.py - Contains functions for demonstrating the results from data.py [as seen in the report]
-
-Jim Bremner - A Log Likelihood fit for extracting the D0 lifetime.pdf - the final report detailing the methods. Read for a more general overview of the aims and results.
 
 NOTE: See comments at bottom of data.py to reproduce the correlation coefficient
 
